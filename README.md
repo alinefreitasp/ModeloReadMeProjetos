@@ -11,6 +11,7 @@ Breve introdução sobre o produto.
  7. [Testes de Usabilidade](#Testes-de-Usabilidade)
  8. [Repositórios](#Repositórios)
  9. [Documentações Auxiliares](#Documentações-Auxiliares)
+ 10. [Orientações Técnicas](#Orientações-Técnicas)
 
 ---
 
@@ -87,4 +88,11 @@ Informar os repositórios de código que envolvem a solução:
 
 
 ## Documentações Auxiliares:
+
 Inserir link para a pasta de documentações ou algum material específico que tenha sido produzido.
+
+## Orientações Técnicas:
+
+Inserir aqui todas as informações de instalação e configuração da aplicação para desenvolvimento.
+
+
