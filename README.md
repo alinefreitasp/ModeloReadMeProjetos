@@ -4,12 +4,13 @@ Breve introdução sobre o produto.
 **Conteúdo:**
  1. [Objetivo](#Objetivo)
  2. [Responsável SME](#Responsável-SME)
- 3. [Comunicação](#Comunicação)
- 4. [Fase de Descoberta](#fase-de-descoberta)
- 5. [Protótipos](#Protótipos)
- 6. [Testes de Usabilidade](#Testes-de-Usabilidade)
- 7. [Repositórios](#Repositórios)
- 8. [Documentações Auxiliares](#Documentações-Auxiliares)
+ 3. [Links Úteis](#Links-Úteis)
+ 4. [Comunicação](#Comunicação)
+ 5. [Fase de Descoberta](#fase-de-descoberta)
+ 6. [Protótipos](#Protótipos)
+ 7. [Testes de Usabilidade](#Testes-de-Usabilidade)
+ 8. [Repositórios](#Repositórios)
+ 9. [Documentações Auxiliares](#Documentações-Auxiliares)
 
 ---
 
@@ -22,6 +23,20 @@ Descrever o objetivo do produto e suas principais funcionalidades de forma bem m
 **Responsável:** @alinefreitasp
 
 **Suplente:** @alinefreitasp
+
+## Links Úteis:
+
+Inserir aqui o link para os ambientes utilizados pelo projeto:
+
+Homologação:
+
+https://hom-curriculo.sme.prefeitura.sp.gov.br/(https://hom-curriculo.sme.prefeitura.sp.gov.br/)
+
+Produção:
+
+https://curriculo.sme.prefeitura.sp.gov.br/(https://curriculo.sme.prefeitura.sp.gov.br/)
+
+
 
 ## Comunicação:
 
