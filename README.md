@@ -52,7 +52,7 @@ Inserir link para os testes de usabilidade aplicados:
 Teste realizado com a equipe de contratos da COTIC:
 [link do teste]
 
-**Repositórios:**
+##Repositórios:
 
 Informar os repositórios de código que envolvem a solução:
 [SME-SGP API]
