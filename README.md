@@ -20,13 +20,14 @@ Descrever o objetivo do produto e suas principais funcionalidades de forma bem m
 ## Responsável SME:
 
 **Responsável:** @alinefreitasp
+
 **Suplente:** @alinefreitasp
 
 ## Comunicação:
 
-**Link para o grupo do Telegram:**
+**Link para o grupo do Telegram:** 
 
- [https://t.me/joinchat/LXtS9Uk2pEsg-skpSvHUdg](https://t.me/joinchat/LXtS9Uk2pEsg-skpSvHUdg)
+[https://t.me/joinchat/LXtS9Uk2pEsg-skpSvHUdg](https://t.me/joinchat/LXtS9Uk2pEsg-skpSvHUdg)
 
 ## Fase de Descoberta:
 
