@@ -59,7 +59,7 @@ Informar os repositórios de código que envolvem a solução:
 [SME-SGP FRONT]
 [SME-SGP BACK]
 
-****
+
 **Documentações Auxiliares:**
 
 Inserir link para a pasta de documentações ou algum material específico que tenha sido produzido.
