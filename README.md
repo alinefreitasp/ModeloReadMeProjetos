@@ -30,11 +30,11 @@ Inserir aqui o link para os ambientes utilizados pelo projeto:
 
 **Homologação:**
 
-https://hom-curriculo.sme.prefeitura.sp.gov.br/(https://hom-curriculo.sme.prefeitura.sp.gov.br/)
+[https://hom-curriculo.sme.prefeitura.sp.gov.br/](https://hom-curriculo.sme.prefeitura.sp.gov.br/)
 
 **Produção:**
 
-https://curriculo.sme.prefeitura.sp.gov.br/(https://curriculo.sme.prefeitura.sp.gov.br/)
+[https://curriculo.sme.prefeitura.sp.gov.br/](https://curriculo.sme.prefeitura.sp.gov.br/)
 
 
 
