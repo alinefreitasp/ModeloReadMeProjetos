@@ -57,13 +57,18 @@ Inserir link para os protótipos construídos:
 Inserir link para os testes de usabilidade aplicados:
 
 **Teste realizado com a equipe de contratos da COTIC:**
+
 [link do teste]
 
 ## Repositórios:
 Informar os repositórios de código que envolvem a solução:
+
 [SME-SGP API]
+
 [SME-SGP FRONT]
+
 [SME-SGP BACK]
+
 
 
 ## Documentações Auxiliares:
