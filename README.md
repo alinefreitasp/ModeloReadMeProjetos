@@ -24,7 +24,8 @@ Descrever o objetivo do produto e suas principais funcionalidades de forma bem m
 
 ## Comunicação:
 
-**Link para o grupo do Telegram: **
+**Link para o grupo do Telegram:**
+
  [https://t.me/joinchat/LXtS9Uk2pEsg-skpSvHUdg](https://t.me/joinchat/LXtS9Uk2pEsg-skpSvHUdg)
 
 ## Fase de Descoberta:
@@ -42,19 +43,16 @@ Inserir os links para os trabalhos de descoberta bem como uma explicação de ca
 
 
 ## Protótipos:
-
 Inserir link para os protótipos construídos:
-**Protótipo Navegável: **
+**Protótipo Navegável:** 
 [https://www.figma.com/proto/kWXWnzOiKlRH2Mfouhi53I/CONTRATOS?node-id=1867%3A54139&viewport=2599%2C-936%2C0.25&scaling=min-zoom](https://www.figma.com/proto/kWXWnzOiKlRH2Mfouhi53I/CONTRATOS?node-id=1867%3A54139&viewport=2599%2C-936%2C0.25&scaling=min-zoom "https://www.figma.com/proto/kwxwnzoiklrh2mfouhi53i/contratos?node-id=1867%3a54139&viewport=2599%2c-936%2c0.25&scaling=min-zoom")
 
 ## Testes de Usabilidade:
-
 Inserir link para os testes de usabilidade aplicados:
 **Teste realizado com a equipe de contratos da COTIC:**
 [link do teste]
 
 ## Repositórios:
-
 Informar os repositórios de código que envolvem a solução:
 [SME-SGP API]
 [SME-SGP FRONT]
