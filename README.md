@@ -28,11 +28,11 @@ Descrever o objetivo do produto e suas principais funcionalidades de forma bem m
 
 Inserir aqui o link para os ambientes utilizados pelo projeto:
 
-Homologação:
+**Homologação:**
 
 https://hom-curriculo.sme.prefeitura.sp.gov.br/(https://hom-curriculo.sme.prefeitura.sp.gov.br/)
 
-Produção:
+**Produção:**
 
 https://curriculo.sme.prefeitura.sp.gov.br/(https://curriculo.sme.prefeitura.sp.gov.br/)
 
