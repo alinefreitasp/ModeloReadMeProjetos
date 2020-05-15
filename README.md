@@ -1,3 +1,12 @@
+Pra você que tá chegando agora e veio por conta do hacktoberfest, esse é o repositório central e as issues estão nele, mas ele é basicamente infra. O repositório em rails é esse:  [plataforma curriculo API](https://github.com/prefeiturasp/SME-plataforma-curriculo-API) issues com a tag API viram PRs nele.
+e o react é esse aqui:  [plataforma curriculo interface](https://github.com/prefeiturasp/SME-plataforma-curriculo-interface) issues com a tag interface viram PRs nele.
+
+# Pátio Digital
+
+_“Recurso público retorna ao público”._
+
+Nós somos o **pátio digital**, uma iniciativa da Secretaria Municipal de Educação de São Paulo que, por meio do fortalecimento da transparência, da participação social e do desenvolvimento de novas tecnologias, aproxima diferentes grupos da sociedade civil por um objetivo maior: a melhoria da educação na cidade de São Paulo.
+
 # Nome do Produto
 Breve introdução sobre o produto.
 
@@ -6,12 +15,13 @@ Breve introdução sobre o produto.
  2. [Responsável SME](#Responsável-SME)
  3. [Links Úteis](#Links-Úteis)
  4. [Comunicação](#Comunicação)
- 5. [Fase de Descoberta](#fase-de-descoberta)
- 6. [Protótipos](#Protótipos)
- 7. [Testes de Usabilidade](#Testes-de-Usabilidade)
- 8. [Repositórios](#Repositórios)
- 9. [Documentações Auxiliares](#Documentações-Auxiliares)
- 10. [Orientações Técnicas](#Orientações-Técnicas)
+ 5. [Como contribuir](#como-contribuir)
+ 6. [Fase de Descoberta](#fase-de-descoberta)
+ 7. [Protótipos](#Protótipos)
+ 8. [Testes de Usabilidade](#Testes-de-Usabilidade)
+ 9. [Repositórios](#Repositórios)
+ 10. [Documentações Auxiliares](#Documentações-Auxiliares)
+ 11. [Orientações Técnicas](#Orientações-Técnicas)
 
 ---
 
@@ -37,13 +47,20 @@ Inserir aqui o link para os ambientes utilizados pelo projeto:
 
 [https://curriculo.sme.prefeitura.sp.gov.br/](https://curriculo.sme.prefeitura.sp.gov.br/)
 
-
-
 ## Comunicação:
 
-**Link para o grupo do Telegram:** 
+| Canal de comunicação | Objetivos |
+|----------------------|-----------|
+| [Issues do Github](https://github.com/prefeiturasp/SME-plataforma-curriculo/issues) | - Sugestão de novas funcionalidades<br> - Reportar bugs<br> - Discussões técnicas |
+| [Telegram](https://t.me/patiodigital) | - Comunicar novidades sobre os projetos<br> - Movimentar a comunidade<br>  - Falar tópicos que **não** demandem discussões profundas |
 
-[https://t.me/joinchat/LXtS9Uk2pEsg-skpSvHUdg](https://t.me/joinchat/LXtS9Uk2pEsg-skpSvHUdg)
+## Como contribuir
+
+Contribuições são **super bem vindas**! Se você tem vontade de construir o
+curriculo digital conosco, veja o nosso [guia de contribuição](./CONTRIBUTING.md)
+onde explicamos detalhadamente como trabalhamos e de que formas você pode nos
+ajudar a alcançar nossos objetivos. Lembrando que todos devem seguir 
+nosso [código de conduta](./CODEOFCONDUCT.md).
 
 ## Fase de Descoberta:
 
@@ -60,7 +77,6 @@ Inserir os links para os trabalhos de descoberta bem como uma explicação de ca
 **Repositório de documentos produzidos:**
 
 [https://smeprefeituraspgov.sharepoint.com/sites/amcom/Shared%20Documents/Forms/AllItems.aspx?viewid=086a7575%2Dba9c%2D474d%2D879e%2D2277cb17dcfe&id=%2Fsites%2Famcom%2FShared%20Documents%2FAMCom%2FDesign%20Thinking](https://smeprefeituraspgov.sharepoint.com/sites/amcom/Shared%20Documents/Forms/AllItems.aspx?viewid=086a7575%2Dba9c%2D474d%2D879e%2D2277cb17dcfe&id=%2Fsites%2Famcom%2FShared%20Documents%2FAMCom%2FDesign%20Thinking)
-
 
 ## Protótipos:
 Inserir link para os protótipos construídos:
